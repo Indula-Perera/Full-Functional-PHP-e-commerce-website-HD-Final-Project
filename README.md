@@ -1,6 +1,6 @@
 # Full-Functional-PHP-e-commerce-website-HD-Final-Project
 This is our higher-diploma final project. We develop a web-based online shopping platform.
-
+![zara](https://github.com/Indula-Perera/Full-Functional-PHP-e-commerce-website-HD-Final-Project/assets/105506303/3db50c36-65b2-4038-9c91-372f7d061344)
 
 ```markdown
 # E-Commerce Website
@@ -66,10 +66,16 @@ This is a fully functional e-commerce website built using PHP and MySQL. It allo
 
 ## Screenshots
 
-![zara](https://github.com/Indula-Perera/Full-Functional-PHP-e-commerce-website-HD-Final-Project/assets/105506303/3db50c36-65b2-4038-9c91-372f7d061344)
 
+**Login**
+![login](https://github.com/Indula-Perera/Full-Functional-PHP-e-commerce-website-HD-Final-Project/assets/105506303/eca65b58-199c-4d3b-8682-738238c288b4)
 
+**Single Product Page**
 
+![product](https://github.com/Indula-Perera/Full-Functional-PHP-e-commerce-website-HD-Final-Project/assets/105506303/8f6d24ad-5631-45e8-b05b-7dd35e8a9a0a)
+
+**Home**
+![aaaa](https://github.com/Indula-Perera/Full-Functional-PHP-e-commerce-website-HD-Final-Project/assets/105506303/7765e683-5059-4c7f-b7bf-12bf2122e8f5)
 
 ## Contact
 
@@ -78,4 +84,4 @@ If you have any questions or need assistance, feel free to contact us at indula3
 Happy shopping!
 ```
 
-Remember to replace `[yourusername]`, `[Any additional libraries or frameworks]`, `[License Name]`, and other placeholders with the relevant information for your project. Also, provide more detailed instructions and explanations in the respective sections of your README.
+

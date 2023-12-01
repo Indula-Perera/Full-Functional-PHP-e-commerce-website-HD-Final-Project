@@ -75,6 +75,7 @@ This is a fully functional e-commerce website built using PHP and MySQL. It allo
 ![product](https://github.com/Indula-Perera/Full-Functional-PHP-e-commerce-website-HD-Final-Project/assets/105506303/8f6d24ad-5631-45e8-b05b-7dd35e8a9a0a)
 
 **Home**
+
 ![aaaa](https://github.com/Indula-Perera/Full-Functional-PHP-e-commerce-website-HD-Final-Project/assets/105506303/7765e683-5059-4c7f-b7bf-12bf2122e8f5)
 
 ## Contact
